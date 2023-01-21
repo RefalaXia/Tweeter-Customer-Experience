@@ -1,4 +1,4 @@
-# Tweeter-Customer-Experience
+# Twiter-Customer-Experience
 ### Team Members
 Avi Agrawal, Reed Dickerson, Izzy Parrett, Shivram Ramkumar, Nora Xia, Natalie Yuziuk
 
